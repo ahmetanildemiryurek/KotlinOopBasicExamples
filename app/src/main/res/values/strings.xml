@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExampleAlgorithms</string>
+    <string name="text">WELCOME</string>
+    <string name="btn">TIKLA</string>
+</resources>
